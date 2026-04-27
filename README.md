@@ -22,7 +22,7 @@ The robot follows a sequence of actions:
 - Activates the arm to release the marker
 
 ## Output
-
+<img width="400" height=auto alt="Robot" src="https://github.com/user-attachments/assets/74c93476-ec4b-43ad-8bbc-e57d73bf3574" />
 
 ## Contributors
 - [Rithish Ramamoorthy Sathya](https://github.com/rithish007)
