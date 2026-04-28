@@ -25,5 +25,5 @@ The robot follows a sequence of actions:
 
 ## Contributors
 - [Rithish Ramamoorthy Sathya](https://github.com/rithish007)
-- [Claudia Sofia Tostado Puente](https://github.com/CSTostadoP)
+- [Sofia Tostado Puente](https://github.com/CSTostadoP)
 - [Ibim Duopama-Obomanu](https://github.com/Ibim12)
