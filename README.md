@@ -23,7 +23,7 @@ The robot follows a sequence of actions:
 - Aligns near the target location
 - Activates the arm to release the marker
 
-## Contributors
+## Team
 - [Rithish Ramamoorthy Sathya](https://github.com/rithish007)
 - [Sofia Tostado Puente](https://github.com/CSTostadoP)
 - [Ibim Duopama-Obomanu](https://github.com/Ibim12)
